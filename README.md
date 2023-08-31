@@ -1,233 +1,91 @@
-<a name="readme-top"></a>
-<div align="center">
+## Hello everyone! I'm Manvendra👋
+<p><em>🚀 Passionate Frontend Developer || Problem Solver || Tech Enthusiast 🌟
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-  ![Project Banner](readme_assets/readme_banner.png#gh-dark-mode-only)
-  ![Project Banner](readme_assets/readme_banner-light.png#gh-light-mode-only)
+<img align="right" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="350" height="210">
 
-  <h1>Three.js 3D Portfolio</h1>
-  
-  <p>
-    Three.js 3D Portfolio is a modern UI/UX and functional Developer Portfolio Web built with React & Three.js
-  </p>
 
-<!-- Badges -->
-<p>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/ladunjexa/Threejs_3D_Portfolio" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/ladunjexa/Threejs_3D_Portfolio" alt="last update" />
-  </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/network/members">
-    <img src="https://img.shields.io/github/forks/ladunjexa/Threejs_3D_Portfolio" alt="forks" />
-  </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/stargazers">
-    <img src="https://img.shields.io/github/stars/ladunjexa/Threejs_3D_Portfolio" alt="stars" />
-  </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">
-    <img src="https://img.shields.io/github/issues/ladunjexa/Threejs_3D_Portfolio" alt="open issues" />
-  </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ladunjexa/Threejs_3D_Portfolio.svg" alt="license" />
-  </a>
-</p>
-   
- <h4>
-    <a href="https://threejs-3-d-portfolio.vercel.app/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Request Feature</a>
-  </h4>
-</div>
 
-<br />
+- 🌱 I’m proficient in **JavaScript** & **ReactJS** <br />
 
-<!-- Table of Contents -->
-<details>
+- 💬 Ask me about **Data Structures & Algorithms, JavaScript, ReactJS, NextJS**
 
-<summary>
+- 📫 How to reach me **imanvendra03@gmail.com**
 
-# :notebook_with_decorative_cover: Table of Contents
+🛠️ In Action :<br />
+During my internship at BeanByte Software, I led the creation of a responsive CRM single-page app with ReactJS. By mastering Redux for state management and integrating RESTful APIs, I ensured efficient data retrieval and dynamic UI updates. Seamless navigation via React Router and performance optimizations elevated the user journey.
 
-</summary>
+💡 Freelance Impact :<br />
+I've also dipped my toes into the world of freelance. Crafting a dynamic web app for AAIEG, I blended ReactJS, Redux, Router, and ES6 for an engaging user experience. And yes, I take security seriously - integrating JSON Web Tokens (JWT) for bulletproof data protection.
 
-- [About the Project](#star2-about-the-project)
-  * [Folder Structure](#bangbang-folder-structure)
-  * [Tech Stack](#space_invader-tech-stack)
-- [Getting Started](#toolbox-getting-started)
-  * [Installation](#gear-installation)
-  * [Run Locally](#running-run-locally)
-- [Contributing](#wave-contributing)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+🧠 Beyond Code :<br />
+A problem solver at heart, I've conquered over 500 algorithmic challenges across platforms. I thrive in fast-paced, collaborative environments, consistently pushing myself to deliver top-notch results. Let's connect and explore how we can create meaningful solutions together.
 
-</details>  
+Happiest when I’m learning, building & contributing. I combine form and function to create something that looks good and performs brilliantly. I love creating sleek user interfaces & bring them to life with code.
 
-<!-- About the Project -->
-## :star2: About the Project
+When I'm away from my screen you'll find me at the gym.
 
-<div align="center">
-  <img src="readme_assets/3d-portfolio.png" height="auto" width="90%"/>
-</div>
-
-<br />
-
-This repository houses an well-designed and functional Developer Portfolio Website consisting Navbar, Hero, Overview, Work Experience, Technologies, Projects, Testimonials and Contact sections built with React & Three.js using TailwindCSS ⏭
-
-<!-- Folder Structure -->
-### :bangbang: Folder Structure
-
-Here is the folder structure of 3D-Portfolio.
-```bash
-Threejs_3D_Portfolio/
-|- public/
-|- src/
-  |-- assets/
-  |-- components/
-  |-- constants/
-  |-- hoc/
-  |-- utils/
-  |-- App.jsx
-  |-- index.css
-  |-- main.jsx
-  |-- styles.js
-|- postcss.config.cjs
-|- tailwind.config.cjs
-|- vite.config.js
-```
-<br />
-
-<!-- TechStack -->
-### :space_invader: Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,threejs)](https://skillicons.dev)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Getting Started -->
-## :toolbox: Getting Started
-
-<!-- Installation -->
-### :gear: Installation
-
-#### Step 1:
-Download or clone this repo by using the link below:
-
-```bash
- https://github.com/ladunjexa/Threejs_3D_Portfolio.git
-```
-
-#### Step 2:
-
-3D-Portfolio using NPM (Node Package Manager), therefore, make sure that Node.js is installed by execute the following command in console:
-
-```bash
-  node -v
-```
-
-#### Step 3:
-
-At the main folder execute the following command in console to get the required dependencies:
-
-```bash
-  npm install --legacy-peer-deps
-```
-
-#### Step 4:
-
-At the main folder execute the following command in console to creates a build directory with a production build of 3d portfolio:
-
-```bash
-  npm run build
-```
-
-#### Step 5:
-
-At the main folder execute the following command in console to run the server:
-
-```bash
-  npm run start
-```
-
-<!-- Run Locally -->
-### :running: Run Locally
-
-#### Step 1:
-
-At the main folder execute the following command in console to get the required dependencies:
-
-```bash
-  npm install --legacy-peer-deps
-```
-
-#### Step 2:
-
-At the main folder execute the following command in console to run the development server:
-
-```bash
-  npm run dev
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Contributing -->
-## :wave: Contributing
-
-<a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ladunjexa/Threejs_3D_Portfolio" />
+## 🌏 Get in Touch
+<a href="https://twitter.com/manvendra__03">
+  <img  alt="Manvendra Pratap Singh | Twitter "src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+<a href="https://www.linkedin.com/in/imanvendra03/">
+  <img  alt="Manvendra Pratap Singh | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
 
-Contributions are always welcome!
+## 👨🏾‍💻 Coding Profiles:
+<a href="https://auth.geeksforgeeks.org/user/singh03manvendra/practice">
+  <img  alt="Manvendra Pratap Singh | geeksforgeeks "src="https://img.icons8.com/color/48/null/GeeksforGeeks.png"/>
+</a>
+<a href="https://leetcode.com/itsmanvendra/">
+  <img alt = "leetcode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+</a>
+<a href="https://www.codechef.com/users/imanvendra03">
+  <img  alt="Manvendra Pratap Singh | codechef "src="https://img.icons8.com/fluency/48/null/codechef.png"/>
+</a>
+<a href="https://www.hackerrank.com/singh03manvendra">
+ <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
+ </a>
 
-See [`contributing.md`](https://contributing.md/) for ways to get started.
+## 💻 Tech Stack:
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+<div align="center">
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width=40 height=40 />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width=40 height=40/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width=40 height=40/>
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+</div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- License -->
-## :warning: License
+##
 
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/LICENSE) for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<!-- Contact -->
-## :handshake: Contact
 
-Liron Abutbul - [@lironabutbul6](https://twitter.com/lironabutbul6) - [@ladunjexa](https://t.me/ladunjexa)
 
-Project Link: [https://github.com/ladunjexa/Threejs_3D_Portfolio](https://github.com/ladunjexa/Threejs_3D_Portfolio)
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Acknowledgments -->
-## :gem: Acknowledgements
-
-This section used to mention useful resources and libraries that used in 3D Portfolio
-
- - [Email JS](https://www.emailjs.com/)
- - [Framer Motion](https://www.framer.com/motion/)
- - [React Tilt](https://www.npmjs.com/package/react-tilt)
- - [React Vertical Timeline Component](https://www.npmjs.com/package/react-vertical-timeline-component)
- - #JSMastery
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="center">
-<img src="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/public/logo.png" height="auto" width="10%" />
-</p>

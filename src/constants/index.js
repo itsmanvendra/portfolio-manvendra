@@ -31,6 +31,8 @@ import {
   invoiceapp,
   ecommerce,
   aaieg,
+  movieApp,
+  nextJs
 } from "../assets";
 
 export const navLinks = [
@@ -76,6 +78,10 @@ const technologies = [
   {
     name: "React JS",
     icon: reactjs,
+  },
+  {
+    name: "Next JS",
+    icon: nextJs,
   },
   {
     name: "Redux Toolkit",
@@ -165,25 +171,25 @@ const testimonials = [
 
 const projects = [
   {
-    name: "AAIEG",
+    name: "Movie App",
     description:
-      "Designed and developed an internal portal for AAIEG, facilitating seamless communication and efficient information sharing among team members.",
+      "Movie-App is a NextJS-based movie website that allows users to search for movies by title, sort them by genre, view trending movies, and bookmark their favorite movies.",
     tags: [
       {
-        name: "react",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "redux",
+        name: "react",
         color: "green-text-gradient",
       },
       {
-        name: "bootstrap",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: aaieg,
-    source_code_link: "https://aaieg.com/",
+    image: movieApp,
+    source_code_link: "https://github.com/itsmanvendra/movie-listing-app",
   },
   {
     name: "Ecommerce Website",

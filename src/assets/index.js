@@ -24,6 +24,7 @@ import threejs from "./tech/threejs.svg";
 import firebase from "./tech/firebase.png";
 import materialui from "./tech/materialui.png";
 import bootstrap from "./tech/bootstrap.png";
+import nextJs from "./tech/next-js.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -38,6 +39,7 @@ import tripguide from "./tripguide.png";
 import invoiceapp from "./invoiceapp.png";
 import ecommerce from "./ecommerce.png";
 import aaieg from "./aaieg.png";
+import movieApp from "./movieApp.png";
 
 export {
   logo,
@@ -77,4 +79,6 @@ export {
   invoiceapp,
   ecommerce,
   aaieg,
+  nextJs,
+  movieApp,
 };

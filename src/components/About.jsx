@@ -47,7 +47,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm Manvendra Pratap Singh, a frontend developer intern at BeanByte Softwares. Proficient in JavaScript, I specialize in React JS. With a track record of solving over 600 algorithmic challenges using C++ and Python, I'm adept at navigating complexities. Thriving in collaborative, fast-paced settings, I contribute effectively with strong communication and problem-solving skills. If you're seeking a dedicated, skilled team member passionate about technology and excellence, I'm ready to bring my expertise to your projects. Let's connect and explore how we can achieve innovation and success together!
+        🚀 Hey, I'm Manvendra Pratap Singh – frontend development intern at
+        Beanbyte Softwares. My journey involves creating seamless user
+        experiences. I led the development of a CRM app using ReactJS during my
+        internship at BeanByte Software. Freelance-wise, I've built a secure web
+        app for AAIEG using ReactJS, Redux, Router, and ES6. Beyond coding, I'm
+        a dedicated problem solver, conquering 500+ algorithmic challenges.
+        Let's collaborate and create impactful solutions together!Let's connect
+        and explore how we can achieve innovation and success together!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

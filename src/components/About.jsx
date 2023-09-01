@@ -38,7 +38,8 @@ const ServiceCard = ({ index, title, icon }) => (
 const About = () => {
   const downloadResume = () => {
     // Replace 'resume.pdf' with the actual file name and path
-    const resumeFile = "src/assets/Manvendra_Singh_Resume.pdf";
+    const resumeFile =
+      "https://drive.google.com/file/d/1fGHUUUN2Hbbam1ruD43ZTNSdRYcOz8pY/view?usp=sharing";
 
     // Create an anchor element
     const anchor = document.createElement("a");

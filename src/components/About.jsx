@@ -36,6 +36,21 @@ const ServiceCard = ({ index, title, icon }) => (
 );
 
 const About = () => {
+  const downloadResume = () => {
+    // Replace 'resume.pdf' with the actual file name and path
+    const resumeFile = "src/assets/Manvendra_Singh_Resume.pdf";
+
+    // Create an anchor element
+    const anchor = document.createElement("a");
+    anchor.href = resumeFile;
+
+    // Set the anchor's attributes for downloading
+    anchor.download = "Manvendra_Pratap_Singh_Resume.pdf";
+    anchor.target = "_blank";
+
+    // Trigger a click event on the anchor element
+    anchor.click();
+  };
   return (
     <>
       <motion.div variants={textVariant()}>
@@ -55,6 +70,10 @@ const About = () => {
         a dedicated problem solver, conquering 500+ algorithmic challenges.
         Let's collaborate and create impactful solutions together!Let's connect
         and explore how we can achieve innovation and success together!
+        <br />
+        <button className="bg-tertiary m-2 py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary" onClick={downloadResume}>
+          Resume
+        </button>
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

@@ -114,6 +114,21 @@ const Contact = () => {
           >
             {loading ? "Sending..." : "Send"}
           </button>
+          <div>
+            <p className={styles.sectionHeadText}>OR</p>
+          </div>
+          <div>
+            <p className={styles.sectionSubText}>Contact Me at :</p>
+            📧 :{" "}
+            <a href="mailto:imanvendra03@gmail.com" className="text-white">
+              imanvendra03@gmail.com
+            </a>
+            <br />
+            📞 :{" "}
+            <a href="tel:+918303270125" className="text-white">
+              +91 8303270125
+            </a>
+          </div>
         </form>
       </motion.div>
 

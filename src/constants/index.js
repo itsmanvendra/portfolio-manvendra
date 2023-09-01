@@ -125,12 +125,12 @@ const experiences = [
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Implemented performance optimizations, including code splitting and lazy loading techniques, resulting in significantly reduced initial load times and an overall improved user experience.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    ], 
+    ],
   },
   {
     title: "ReactJs Developer",
     company_name: "Freelancer",
-    icon: freelancer,
+    icon: shopify,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Apr 2023",
     points: [

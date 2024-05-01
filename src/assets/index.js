@@ -40,6 +40,8 @@ import invoiceapp from "./invoiceapp.png";
 import ecommerce from "./ecommerce.png";
 import aaieg from "./aaieg.png";
 import movieApp from "./movieApp.png";
+import advancedstructuresindia from "./company/advancedstructuresindia.jpeg";
+import anedyaSystems from "./company/anedyaSystems.png";
 
 export {
   logo,
@@ -81,4 +83,6 @@ export {
   aaieg,
   nextJs,
   movieApp,
+  anedyaSystems,
+  advancedstructuresindia,
 };

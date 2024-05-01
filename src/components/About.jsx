@@ -39,7 +39,7 @@ const About = () => {
   const downloadResume = () => {
     // Replace 'resume.pdf' with the actual file name and path
     const resumeFile =
-      "https://drive.google.com/file/d/1fGHUUUN2Hbbam1ruD43ZTNSdRYcOz8pY/view?usp=sharing";
+      "http://drive.google.com/file/d/1xYBFeFxKqs17ycyDuxpyBeXQKQLYpsIm/view?usp=sharing";
 
     // Create an anchor element
     const anchor = document.createElement("a");
@@ -63,16 +63,23 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        🚀 Hey, I'm Manvendra Pratap Singh – frontend development intern at
-        Beanbyte Softwares. My journey involves creating seamless user
-        experiences. I led the development of a CRM app using ReactJS during my
-        internship at BeanByte Software. Freelance-wise, I've built a secure web
-        app for AAIEG using ReactJS, Redux, Router, and ES6. Beyond coding, I'm
-        a dedicated problem solver, conquering 500+ algorithmic challenges.
-        Let's collaborate and create impactful solutions together!Let's connect
-        and explore how we can achieve innovation and success together!
+        🚀 Hello! I'm Manvendra Pratap Singh, frontend developer
+        currently contributing to the success of Advanced Structures India. With
+        a rich background in crafting exceptional user experiences, like integrating QR code scanning into search pages and
+        implementing performance optimizations such as lazy loading and
+        server-side pagination. My freelance endeavors, such as projects at
+        Anedya, have further fortified my expertise in secure, feature-rich
+        solutions like single-page web apps with JWT authentication and
+        real-time data analysis. With a proven track record of problem-solving
+        and a knack for pushing boundaries, I thrive in collaborative
+        environments and am excited to bring my skills to your team. Let's
+        connect and explore how we can continue creating impactful solutions
+        together!
         <br />
-        <button className="bg-tertiary m-2 py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary" onClick={downloadResume}>
+        <button
+          className="bg-tertiary m-2 py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary"
+          onClick={downloadResume}
+        >
           Resume
         </button>
       </motion.p>

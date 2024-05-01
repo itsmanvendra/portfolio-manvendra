@@ -32,7 +32,9 @@ import {
   ecommerce,
   aaieg,
   movieApp,
-  nextJs
+  nextJs,
+  advancedstructuresindia,
+  anedyaSystems,
 } from "../assets";
 
 export const navLinks = [
@@ -59,7 +61,6 @@ const services = [
     title: "ReactJS Developer",
     icon: mobile,
   },
-  
 ];
 
 const technologies = [
@@ -115,11 +116,23 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Beanbyte Software",
+    title: "Frontend Developer",
+    company_name: "Advanced Structures India",
+    icon: advancedstructuresindia,
+    iconBg: "#E6DEDD",
+    date: "Oct 2023 - Current",
+    points: [
+      "Developed a search page with optimized search functionality utilizing debounce and integrated QR codescanning capability.",
+      "Integrated lazy loading to optimize image loading within the media and customer view page, enhancing performance",
+      "Implemented Datagrid for tables with server-side pagination, search, and filtering capabilities, coupled with form validation using Formik and Yup.",
+    ],
+  },
+  {
+    title: "Frontend Developer",
+    company_name: "Advanced Structures India",
     icon: beanbyte,
     iconBg: "#E6DEDD",
-    date: "May 2023 - Current",
+    date: "May 2023 - Aug 2023",
     points: [
       "Developed single-page web applications Customer Relationship Management(CRM) using React.js and other related technologies.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
@@ -128,16 +141,16 @@ const experiences = [
     ],
   },
   {
-    title: "ReactJs Developer",
-    company_name: "Freelancer",
-    icon: shopify,
+    title: "ReactJs Developer (Paid Freelance)",
+    company_name: "Anedya Systems",
+    icon: anedyaSystems,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Apr 2023",
     points: [
-      "Designed and developed a single-page web app for the AAIEG using React.js and other related technologies.",
-      "Integrated JSON Web Tokens (JWT) to handle both authentication and authorization. Provide role-based access control on the application, enhancing data protection and user privacy.",
+      "Designed and developed a single-page web app for the Anedya Systems (ReactJS, Redux, Router, ES6 )",
+      " Integrated JSON Web Tokens (JWT) to handle both authentication and authorization, google reCAPTCHA validation ensuring secure access control and safeguarding sensitive data from unauthorized access",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Collaborated seamlessly with a cross-functional team of 3 members to successfully deliver the project.",
+      "Developed and implemented interactive data graphs, enabling real-time data analysis and enhancing decision-making capabilities, resulting in a 40% increase in data-driven insights",
     ],
   },
 ];
@@ -197,11 +210,11 @@ const projects = [
       "Developed e-commerce with Google authenticated security and an intuitive cart/wishlist interface, delivering seamless item management for better experience.",
     tags: [
       {
-        name: "react",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "firebase",
+        name: "react",
         color: "green-text-gradient",
       },
       {
@@ -210,7 +223,7 @@ const projects = [
       },
     ],
     image: ecommerce,
-    source_code_link: "https://github.com/itsmanvendra/nikeStore",
+    source_code_link: "https://github.com/itsmanvendra/mini-ecommerce",
   },
   {
     name: "Invoice App",
@@ -231,7 +244,7 @@ const projects = [
       },
     ],
     image: invoiceapp,
-    source_code_link: "https://github.com/itsmanvendra/invoice-app",
+    source_code_link: "https://github.com/itsmanvendra/invoice-generator",
   },
 ];
 
